@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-arman.dev-0A0A0A?style=for-the-badge)](https://arman.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-armanphaugat.netlify.app-0A0A0A?style=for-the-badge)](https://armanphaugat.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armanphaugat05)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Top_0.3%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/armanphaugat20)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanphaugat20@gmail.com)
@@ -153,6 +153,6 @@ My core stack is **Node.js · Redis · BullMQ · MySQL** for backend systems, an
 
 **Let's build something great together.**
 
-[📧 armanphaugat20@gmail.com](mailto:armanphaugat20@gmail.com) · [🌐 arman.dev](https://arman.dev) · [💼 LinkedIn](https://linkedin.com/in/armanphaugat05)
+[📧 armanphaugat20@gmail.com](mailto:armanphaugat20@gmail.com) · [🌐 armanphaugat.netlify.app](https://armanphaugat.netlify.app) · [💼 LinkedIn](https://linkedin.com/in/armanphaugat05)
 
 </div>
