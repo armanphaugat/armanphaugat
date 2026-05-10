@@ -42,7 +42,7 @@ I'm a **3rd-year B.Tech CSE student** at **Manipal University Jaipur (2023–202
 
 | 🎓 CGPA | 🧩 Problems Solved | 🏆 LeetCode Rank | 🚀 Projects | 💼 Experience |
 |:---:|:---:|:---:|:---:|:---:|
-| **9.05 / 10** | **900+** | **Top 0.3%** | **10+** | Indavis Lifesciences |
+| **9.05 / 10** | **900+** | **Top 0.3%** | **12+** | Indavis Lifesciences |
 | Dean's Award | Multi-platform | Beats 99.7% | 5 Domains | Web Dev Intern |
 
 </div>
@@ -100,10 +100,33 @@ I'm a **3rd-year B.Tech CSE student** at **Manipal University Jaipur (2023–202
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=armanphaugat&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanphaugat&theme=tokyonight&hide_border=true&layout=compact" />
+<!-- Stats card — uses the self-hosted Vercel instance; add &cache_seconds=86400 to reduce rate-limit failures -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=armanphaugat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanphaugat&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400" />
 
-<img width="65%" src="https://nirzak-streak-stats.vercel.app/?user=armanphaugat&theme=tokyonight&hide_border=true" />
+<br/>
+
+<!-- Streak stats — demolab instance is the most reliably maintained public host -->
+<img width="65%" src="https://streak-stats.demolab.com/?user=armanphaugat&theme=tokyonight&hide_border=true" />
+
+</div>
+
+> **Note:** If stat cards show errors, GitHub's API rate-limits public stat services. They recover on their own — just refresh after a few minutes.
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| # | Project | Stack | Highlights |
+|:---:|:---|:---|:---|
+| 01 | **Real-Time Stock Trading Backend** | Node.js · Redis · MySQL · BullMQ · Docker | <50ms leaderboard queries · row-level locking · token bucket rate limiter |
+| 02 | **RAG Discord Bot** | Python · FastAPI · LangChain · FAISS · Groq | Per-guild vector stores · Llama 3.3 inference · PDF + web scraping pipeline |
+| 03 | **Video Streaming & User Management** | Node.js · MongoDB · ffmpeg · Cloudinary | HLS adaptive bitrate · JWT dual lifecycle · aggregation pipelines |
+| 04 | **Cricket Score Predictor** | Python · XGBoost · Streamlit · CricAPI | 3 models (IPL/T20/ODI) · live API inference · format-specific feature engineering |
+| 05 | **IPL Win Predictor** | Python · Scikit-learn · Streamlit | LR + RF ensemble · CRR/RRR/wickets features · 4500+ row dataset |
+| 06 | **Book Recommender System** | Python · Scikit-learn · Streamlit | Popularity filter + cosine similarity collaborative filtering |
 
 </div>
 
@@ -130,6 +153,16 @@ I'm a **3rd-year B.Tech CSE student** at **Manipal University Jaipur (2023–202
 | RAG (Retrieval-Augmented Generation) | Coursera | 2024 |
 | Design and Analysis of Algorithms | NPTEL | 2025 |
 | System Administration I & II | Red Hat | 2025 |
+
+---
+
+## 💼 Experience
+
+**Web Development Intern** · Indavis Lifesciences · *Jun – Jul 2025 · On-site, Haridwar*
+
+- Maintained and updated production website ensuring performance and content accuracy
+- Collaborated with cross-functional teams to align updates with brand guidelines
+- Managed content workflows for consistent UX and brand representation
 
 ---
 
