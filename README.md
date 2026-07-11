@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arman%20Phaugat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Competitive%20Programmer&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arman%20Phaugat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%E2%80%A2%20AI%2FML%20%26%20RAG%20Builder%20%E2%80%A2%20Competitive%20Programmer&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Building+fast+backends+%F0%9F%9A%80;Shipping+ML+models+%F0%9F%A4%96;Crafting+AI-powered+apps+%E2%9A%A1;Top+0.3%25+on+LeetCode+%F0%9F%94%A5;900%2B+DSA+Problems+Solved+%F0%9F%A7%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=650&lines=Cut+RAG+latency+28s+%E2%86%92+8s+(3.5x)+%F0%9F%9A%80;Building+production+backends+%E2%9A%99%EF%B8%8F;Shipping+AI%2FRAG+pipelines+%F0%9F%A4%96;Top+0.3%25+on+LeetCode+%F0%9F%94%A5;900%2B+DSA+Problems+Solved+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://armanphaugat.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://armanphaugat.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armanphaugat05)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/armanphaugat20)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanphaugat20@gmail.com)
@@ -25,14 +25,23 @@
 
 ## 👨‍💻 About Me
 
-I'm a **3rd-year B.Tech CSE student** at **Manipal University Jaipur (2023–2027)** who builds things that work **fast**, **scale cleanly**, and **solve real problems**.
+```python
+class Arman:
+    def __init__(self):
+        self.role = "Backend Engineer & AI/ML Builder"
+        self.education = "B.Tech CSE, Manipal University Jaipur (2023–2027)"
+        self.cgpa = 9.05  # till 6th semester, Dean's Excellence Award
+        self.location = "Jaipur, Rajasthan, India"
+        self.backend_stack = ["Node.js", "FastAPI", "Redis", "BullMQ", "MySQL", "PostgreSQL"]
+        self.ai_ml_stack = ["LangChain", "FAISS", "Groq", "Graphlit", "Scikit-learn", "XGBoost"]
+        self.dsa_problems_solved = "900+"
+        self.leetcode_rank = "Top 0.3% globally"
 
-- 🏗️ Core backend stack: **Node.js · Redis · BullMQ · MySQL**
-- 🤖 AI/ML stack: **LangChain · FAISS · Groq · Scikit-learn · XGBoost**
-- 🧩 Competitive programmer with **900+ DSA problems** solved across platforms
-- 🏆 **LeetCode Top 0.3%** — beats 99.7% of coders globally
-- 🎓 **9.05 CGPA** — Dean's Excellence Award recipient
-- 📍 Based in Jaipur, Rajasthan, India
+    def currently_building(self):
+        return "Nori — a RAG-powered Discord bot, as Founder & Backend/AI Dev"
+
+me = Arman()
+```
 
 ---
 
@@ -40,10 +49,10 @@ I'm a **3rd-year B.Tech CSE student** at **Manipal University Jaipur (2023–202
 
 <div align="center">
 
-| 🎓 CGPA | 🧩 Problems Solved | 🏆 LeetCode Rank | 🚀 Projects | 💼 Experience |
+| 🎓 CGPA | 🧩 Problems Solved | 🏆 LeetCode Rank | ⚡ RAG Speedup | 🗄️ Query Time Cut |
 |:---:|:---:|:---:|:---:|:---:|
-| **9.05 / 10** | **900+** | **Top 0.3%** | **12+** | Indavis Lifesciences |
-| Dean's Award | Multi-platform | Beats 99.7% | 5 Domains | Web Dev Intern |
+| **9.05 / 10** | **900+** | **Top 0.3%** | **28s → 8s (3.5x)** | **-65%** |
+| Dean's Award | Multi-platform | Beats 99.7% | Nori pipeline | Async concurrency |
 
 </div>
 
@@ -57,7 +66,6 @@ I'm a **3rd-year B.Tech CSE student** at **Manipal University Jaipur (2023–202
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Backend**
 
@@ -69,17 +77,18 @@ I'm a **3rd-year B.Tech CSE student** at **Manipal University Jaipur (2023–202
 **Databases & Cache**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**AI / ML**
+**AI / ML / RAG**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 **DevOps & Tools**
 
@@ -91,7 +100,6 @@ I'm a **3rd-year B.Tech CSE student** at **Manipal University Jaipur (2023–202
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
@@ -100,13 +108,11 @@ I'm a **3rd-year B.Tech CSE student** at **Manipal University Jaipur (2023–202
 
 <div align="center">
 
-<!-- Stats card — uses the self-hosted Vercel instance; add &cache_seconds=86400 to reduce rate-limit failures -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armanphaugat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanphaugat&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400" />
 
 <br/>
 
-<!-- Streak stats — demolab instance is the most reliably maintained public host -->
 <img width="65%" src="https://streak-stats.demolab.com/?user=armanphaugat&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -121,12 +127,9 @@ I'm a **3rd-year B.Tech CSE student** at **Manipal University Jaipur (2023–202
 
 | # | Project | Stack | Highlights |
 |:---:|:---|:---|:---|
-| 01 | **Real-Time Stock Trading Backend** | Node.js · Redis · MySQL · BullMQ · Docker | <50ms leaderboard queries · row-level locking · token bucket rate limiter |
-| 02 | **RAG Discord Bot** | Python · FastAPI · LangChain · FAISS · Groq | Per-guild vector stores · Llama 3.3 inference · PDF + web scraping pipeline |
-| 03 | **Video Streaming & User Management** | Node.js · MongoDB · ffmpeg · Cloudinary | HLS adaptive bitrate · JWT dual lifecycle · aggregation pipelines |
-| 04 | **Cricket Score Predictor** | Python · XGBoost · Streamlit · CricAPI | 3 models (IPL/T20/ODI) · live API inference · format-specific feature engineering |
-| 05 | **IPL Win Predictor** | Python · Scikit-learn · Streamlit | LR + RF ensemble · CRR/RRR/wickets features · 4500+ row dataset |
-| 06 | **Book Recommender System** | Python · Scikit-learn · Streamlit | Popularity filter + cosine similarity collaborative filtering |
+| 01 | **Nori** *(Founder & Backend/AI Dev)* | FastAPI · PostgreSQL · Redis · BullMQ · Discord.py · Groq · Graphlit · Tavily · Podman | RAG latency **28s → 8s (3.5x)** · async SQLAlchemy cut DB time **65%** · tiered SaaS plans w/ usage caps, 10+ file types |
+| 02 | **Real-Time Stock Trading Backend** | Node.js · Express · MySQL · Redis · BullMQ · JWT · Docker · Argon2 | Redis Sorted Set leaderboard **<50ms** queries · BullMQ price-simulation engine (±25%, 30-min jobs) · Token Bucket rate limiter (5 req/s) |
+| 03 | **Video Streaming & User Management Backend** | Node.js · MongoDB · Express · Cloudinary · JWT · Bcrypt · ffmpeg | HLS adaptive bitrate (360p/720p) via fluent-ffmpeg · JWT dual-token auth · indexed aggregations cut API latency **~200ms → ~120ms** |
 
 </div>
 
@@ -140,6 +143,7 @@ I'm a **3rd-year B.Tech CSE student** at **Manipal University Jaipur (2023–202
 | ⚡ | **LeetCode Top 0.3%** | 900+ problems · Beats 99.7% globally |
 | 🔥 | **900+ DSA Problems** | LeetCode · Codeforces · Multi-platform |
 | 🚀 | **MUJHackX Round 2 Qualifier** | Top performer among 1300+ participants |
+| 📊 | **ZS Campus Beats 2026 — Round 2 Qualifier** | Among 7,000+ candidates · 2,450+ teams |
 
 ---
 
@@ -160,9 +164,8 @@ I'm a **3rd-year B.Tech CSE student** at **Manipal University Jaipur (2023–202
 
 **Web Development Intern** · Indavis Lifesciences · *Jun – Jul 2025 · On-site, Haridwar*
 
-- Maintained and updated production website ensuring performance and content accuracy
-- Collaborated with cross-functional teams to align updates with brand guidelines
-- Managed content workflows for consistent UX and brand representation
+- Maintained and updated **7+ web pages/routes**, ensuring smooth performance and content accuracy
+- Collaborated with cross-functional teams to align updates with brand and business objectives
 
 ---
 
@@ -176,7 +179,7 @@ If you're looking for a backend or AI/ML engineer for your team, project, or int
 
 [![Email](https://img.shields.io/badge/armanphaugat20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanphaugat20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/armanphaugat05-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armanphaugat05)
-[![Portfolio](https://img.shields.io/badge/armanphaugat.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://armanphaugat.netlify.app)
+[![Portfolio](https://img.shields.io/badge/armanphaugat.me-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://armanphaugat.me)
 
 <br/>
 
