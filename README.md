@@ -25,82 +25,54 @@
 
 ## 👨‍💻 About Me
 
-```python
-class Arman:
-    def __init__(self):
-        self.role = "Backend Engineer & AI/ML Builder"
-        self.education = "B.Tech CSE, Manipal University Jaipur (2023–2027)"
-        self.cgpa = 9.05  # till 6th semester, Dean's Excellence Award
-        self.location = "Jaipur, Rajasthan, India"
-        self.backend_stack = ["Node.js", "FastAPI", "Redis", "BullMQ", "MySQL", "PostgreSQL"]
-        self.ai_ml_stack = ["LangChain", "FAISS", "Groq", "Graphlit", "Scikit-learn", "XGBoost"]
-        self.dsa_problems_solved = "900+"
-        self.leetcode_rank = "Top 0.3% globally"
-
-    def currently_building(self):
-        return "Nori — a RAG-powered Discord bot, as Founder & Backend/AI Dev"
-
-me = Arman()
+```json
+{
+  "name": "Arman Phaugat",
+  "role": "Backend Engineer & AI/ML Builder",
+  "education": {
+    "degree": "B.Tech CSE",
+    "university": "Manipal University Jaipur",
+    "duration": "2023 – 2027",
+    "cgpa": "9.05 / 10 (till 6th semester)",
+    "award": "Dean's Excellence Award"
+  },
+  "location": "Jaipur, Rajasthan, India",
+  "currentlyBuilding": "Nori — RAG-powered Discord bot (Founder & Backend/AI Dev)",
+  "highlights": {
+    "ragLatencyImprovement": "28s → 8s (3.5x)",
+    "dbQueryTimeReduction": "65%",
+    "problemsSolved": "900+",
+    "leetcodeRank": "Top 0.3% globally"
+  },
+  "openToWork": true
+}
 ```
 
 ---
 
-## 📊 At a Glance
+## 🛠️ Stack
 
-<div align="center">
-
-| 🎓 CGPA | 🧩 Problems Solved | 🏆 LeetCode Rank | ⚡ RAG Speedup | 🗄️ Query Time Cut |
-|:---:|:---:|:---:|:---:|:---:|
-| **9.05 / 10** | **900+** | **Top 0.3%** | **28s → 8s (3.5x)** | **-65%** |
-| Dean's Award | Multi-platform | Beats 99.7% | Nori pipeline | Async concurrency |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-**Backend**
-
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-**Databases & Cache**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**AI / ML / RAG**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+```json
+{
+  "languages": ["Python", "JavaScript", "C++", "C"],
+  "backend": ["Node.js", "Express.js", "FastAPI", "REST APIs"],
+  "databasesAndCache": ["MySQL", "PostgreSQL", "MongoDB", "Redis", "FAISS", "SQLite"],
+  "aiMl": ["LangChain", "HuggingFace", "Scikit-learn", "XGBoost", "Pandas", "NumPy"],
+  "devopsAndTools": ["Docker", "Git", "GitHub", "Postman", "Podman"],
+  "frontend": ["React", "TailwindCSS"],
+  "coreConcepts": [
+    "Data Structures & Algorithms",
+    "System Design",
+    "RESTful API Design",
+    "Caching",
+    "Rate Limiting",
+    "Authentication & Authorization",
+    "RAG",
+    "Microservices",
+    "Event-driven Architecture"
+  ]
+}
+```
 
 ---
 
@@ -121,61 +93,19 @@ me = Arman()
 
 ---
 
-## 🚀 Featured Projects
+## 🤝 Connect
+
+```json
+{
+  "email": "armanphaugat20@gmail.com",
+  "linkedin": "https://linkedin.com/in/armanphaugat05",
+  "portfolio": "https://armanphaugat.me",
+  "leetcode": "https://leetcode.com/u/armanphaugat20",
+  "status": "Open to backend / AI-ML internships and full-time roles"
+}
+```
 
 <div align="center">
-
-| # | Project | Stack | Highlights |
-|:---:|:---|:---|:---|
-| 01 | **Nori** *(Founder & Backend/AI Dev)* | FastAPI · PostgreSQL · Redis · BullMQ · Discord.py · Groq · Graphlit · Tavily · Podman | RAG latency **28s → 8s (3.5x)** · async SQLAlchemy cut DB time **65%** · tiered SaaS plans w/ usage caps, 10+ file types |
-| 02 | **Real-Time Stock Trading Backend** | Node.js · Express · MySQL · Redis · BullMQ · JWT · Docker · Argon2 | Redis Sorted Set leaderboard **<50ms** queries · BullMQ price-simulation engine (±25%, 30-min jobs) · Token Bucket rate limiter (5 req/s) |
-| 03 | **Video Streaming & User Management Backend** | Node.js · MongoDB · Express · Cloudinary · JWT · Bcrypt · ffmpeg | HLS adaptive bitrate (360p/720p) via fluent-ffmpeg · JWT dual-token auth · indexed aggregations cut API latency **~200ms → ~120ms** |
-
-</div>
-
----
-
-## 🏆 Achievements
-
-| | Achievement | Details |
-|:---:|:---|:---|
-| 🥇 | **Dean's Excellence Award** | Multiple semesters · 9.05 CGPA at MUJ |
-| ⚡ | **LeetCode Top 0.3%** | 900+ problems · Beats 99.7% globally |
-| 🔥 | **900+ DSA Problems** | LeetCode · Codeforces · Multi-platform |
-| 🚀 | **MUJHackX Round 2 Qualifier** | Top performer among 1300+ participants |
-| 📊 | **ZS Campus Beats 2026 — Round 2 Qualifier** | Among 7,000+ candidates · 2,450+ teams |
-
----
-
-## 📜 Certifications
-
-| Certification | Issuer | Year |
-|:---|:---:|:---:|
-| Competitive Programming — Level 1, 2 & 3 | TLE Eliminators | 2023 |
-| Database Design and Foundations | Oracle | 2024 |
-| OOP Programming using Java | GeeksforGeeks | 2024 |
-| RAG (Retrieval-Augmented Generation) | Coursera | 2024 |
-| Design and Analysis of Algorithms | NPTEL | 2025 |
-| System Administration I & II | Red Hat | 2025 |
-
----
-
-## 💼 Experience
-
-**Web Development Intern** · Indavis Lifesciences · *Jun – Jul 2025 · On-site, Haridwar*
-
-- Maintained and updated **7+ web pages/routes**, ensuring smooth performance and content accuracy
-- Collaborated with cross-functional teams to align updates with brand and business objectives
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-If you're looking for a backend or AI/ML engineer for your team, project, or internship — let's talk!
-
-<br/>
 
 [![Email](https://img.shields.io/badge/armanphaugat20%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanphaugat20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/armanphaugat05-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armanphaugat05)
