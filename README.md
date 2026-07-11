@@ -74,9 +74,9 @@ Backend Engineer • AI/ML & RAG Builder • Competitive Programmer
 
 ### 📈 GitHub Stats
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=armanphaugat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=armanphaugat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=6AD3F7&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117&border_radius=10&cache_seconds=86400" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanphaugat&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=armanphaugat&theme=tokyonight&hide_border=true&layout=compact&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117&border_radius=10&cache_seconds=86400" />
 
 </td>
 </tr>
